@@ -15,6 +15,6 @@ Il inclut un code de lecture classique pour un vrai module GPS, ainsi qu'un **mo
 
 # Membres
 
-* **Nicolas Cholin
-* **Badis Dridi
-* **Thomas Jouvenceau
+* Nicolas Cholin
+* Badis Dridi
+* Thomas Jouvenceau
